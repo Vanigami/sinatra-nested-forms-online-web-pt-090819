@@ -4,11 +4,11 @@ class Pirate
   @@all = []
 
   def initialize(name, height, weight)
-    @name = name 
+    @name = name
     @height = height
     @weight = weight
     @@all
   end
 
-  
+
 end
