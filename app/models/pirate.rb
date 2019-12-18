@@ -7,7 +7,7 @@ class Pirate
     @name = name
     @height = height
     @weight = weight
-    self
+    @@all << self
   end
 
 
